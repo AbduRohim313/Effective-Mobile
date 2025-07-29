@@ -30,7 +30,6 @@ dotnet run
 
 ```
 https://localhost:7157;http://localhost:5203
-
 ```
 
 ---
@@ -63,5 +62,5 @@ https://localhost:7157;http://localhost:5203
 
 ## 👤 Автор
 
-АбдуРохим | AbduRohim313
+AbduRohim313
 
