@@ -1,0 +1,25 @@
+D:\Coding\WEB\Effective Mobile\bin\Debug\net8.0\appsettings.Development.json
+D:\Coding\WEB\Effective Mobile\bin\Debug\net8.0\appsettings.json
+D:\Coding\WEB\Effective Mobile\bin\Debug\net8.0\Effective Mobile.exe
+D:\Coding\WEB\Effective Mobile\bin\Debug\net8.0\Effective Mobile.deps.json
+D:\Coding\WEB\Effective Mobile\bin\Debug\net8.0\Effective Mobile.runtimeconfig.json
+D:\Coding\WEB\Effective Mobile\bin\Debug\net8.0\Effective Mobile.dll
+D:\Coding\WEB\Effective Mobile\bin\Debug\net8.0\Effective Mobile.pdb
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\Effective Mobile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\Effective Mobile.AssemblyInfoInputs.cache
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\Effective Mobile.AssemblyInfo.cs
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\Effective Mobile.csproj.CoreCompileInputs.cache
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\Effective Mobile.MvcApplicationPartsAssemblyInfo.cache
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\scopedcss\bundle\Effective Mobile.styles.css
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\staticwebassets.build.json
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\staticwebassets.development.json
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\staticwebassets\msbuild.Effective Mobile.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\staticwebassets\msbuild.build.Effective Mobile.props
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Effective Mobile.props
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Effective Mobile.props
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\Effective Mobile.dll
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\refint\Effective Mobile.dll
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\Effective Mobile.pdb
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\Effective Mobile.genruntimeconfig.cache
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\ref\Effective Mobile.dll
