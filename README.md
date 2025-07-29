@@ -28,13 +28,9 @@ dotnet run
 
 ### 4. Адреса по умолчанию:
 
-```json
-  "http": {
-    "applicationUrl": "http://localhost:5203"
-  },
-  "https": {
-    "applicationUrl": "https://localhost:7157;http://localhost:5203"
-  }
+```
+https://localhost:7157;http://localhost:5203
+
 ```
 
 ---
