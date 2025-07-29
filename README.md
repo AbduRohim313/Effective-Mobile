@@ -59,8 +59,3 @@ https://localhost:7157;http://localhost:5203
 * `Dto` — модели DTO
 
 ---
-
-## 👤 Автор
-
-AbduRohim313
-
