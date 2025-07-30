@@ -78,6 +78,7 @@ public class HomeService : IService
     {
         try
         {
+            location = location.Trim();
             if (string.IsNullOrWhiteSpace(location))
                 return null;
 
@@ -87,8 +88,8 @@ public class HomeService : IService
             {
                 foreach (var loc in platform.Value)
                 {
-                    if (location.StartsWith(loc.Trim('/'), StringComparison.OrdinalIgnoreCase) ||
-                        location.StartsWith(loc, StringComparison.OrdinalIgnoreCase))
+                    if (string.Equals(location, loc, StringComparison.OrdinalIgnoreCase) ||
+                        location.StartsWith(loc + "/", StringComparison.OrdinalIgnoreCase))
                     {
                         result.Add(platform.Key);
                         break;
