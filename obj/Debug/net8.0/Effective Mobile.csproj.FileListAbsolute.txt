@@ -23,3 +23,7 @@ D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\refint\Effective Mobile.dll
 D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\Effective Mobile.pdb
 D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\Effective Mobile.genruntimeconfig.cache
 D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\ref\Effective Mobile.dll
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\Effective Mobile.sourcelink.json
+D:\Coding\WEB\Effective Mobile\bin\Debug\net8.0\Effective Mobile.staticwebassets.endpoints.json
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Coding\WEB\Effective Mobile\obj\Debug\net8.0\staticwebassets\msbuild.Effective Mobile.Microsoft.AspNetCore.StaticWebAssetEndpoints.props

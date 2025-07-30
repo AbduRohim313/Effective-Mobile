@@ -29,6 +29,6 @@ public class HomeController : ControllerBase
         var response = _service.Reklama(location);
         if (response == null)
             return BadRequest();
-        return Ok(response);
+        return Ok(response.Result);
     }
 }

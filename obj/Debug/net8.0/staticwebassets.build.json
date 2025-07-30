@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "5Nns6DBZ85BUIXgymztw+TNY2ogqaqj653MQHKeT2KY=",
+  "Hash": "7pDMWkJpmQ/xg2/lBD+h0D7/+br2dEGnLt8rF13nPY0=",
   "Source": "Effective Mobile",
   "BasePath": "_content/Effective Mobile",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

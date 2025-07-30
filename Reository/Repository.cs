@@ -4,7 +4,7 @@ namespace Effective_Mobile.Reository;
 
 public class Repository : IRepository
 {
-    private Dictionary<string, List<string>> db = new();
+    private static Dictionary<string, List<string>> db = new();
 
     public async Task<IDictionary<string, List<string>>> Db()
     {
